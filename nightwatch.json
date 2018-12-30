@@ -2,8 +2,8 @@
     "src_folders" : ["tests"],
   
     "webdriver" : {
-      "start_process": false,
-      "server_path": "",
+      "start_process": true,
+      "server_path": "./chromedriver.exe",
       "port": 9515
     },
   
